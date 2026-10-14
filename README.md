@@ -14,6 +14,7 @@ It demonstrates how SQL + Python integration can be used to extract, clean, and 
 ---
 
 ## 📂 Repository Structure
+''' 📂 Repository Structure
 .
 ├── data/                # Raw and cleaned datasets
 │   ├── customers.csv
@@ -35,7 +36,7 @@ It demonstrates how SQL + Python integration can be used to extract, clean, and 
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 
-
+'''
 
 
 ---
