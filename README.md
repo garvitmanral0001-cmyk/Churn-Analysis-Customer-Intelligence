@@ -15,7 +15,12 @@ It demonstrates how SQL + Python integration can be used to extract, clean, and 
 
 ## 📂 Repository Structure
 
+📂 Repository Structure
+.
 ├── data/                # Raw and cleaned datasets
+│   ├── customers.csv
+│   ├── subscriptions.csv
+│   └── support_tickets.csv
 ├── notebooks/           # Jupyter notebooks for analysis
 │   ├── 01_data_extraction.ipynb
 │   ├── 02_feature_engineering.ipynb
@@ -26,7 +31,12 @@ It demonstrates how SQL + Python integration can be used to extract, clean, and 
 │   ├── feature_engineering.py
 │   └── churn_analysis.py
 ├── visuals/             # Plots and BI dashboards
-├── README.md            # Project documentation
+│   ├── churn_by_tier.png
+│   ├── cltv_distribution.png
+│   └── escalation_vs_churn.png
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
+
 
 
 ---
