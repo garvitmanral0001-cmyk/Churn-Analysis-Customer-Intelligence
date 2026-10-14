@@ -13,7 +13,7 @@ It demonstrates how SQL + Python integration can be used to extract, clean, and 
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 .
 ├── data/                # Raw and cleaned datasets
 │   ├── customers.csv
