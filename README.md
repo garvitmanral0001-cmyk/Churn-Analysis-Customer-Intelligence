@@ -13,8 +13,6 @@ It demonstrates how SQL + Python integration can be used to extract, clean, and 
 
 ---
 
-## 📂 Repository Structure
-
 📂 Repository Structure
 .
 ├── data/                # Raw and cleaned datasets
@@ -36,6 +34,7 @@ It demonstrates how SQL + Python integration can be used to extract, clean, and 
 │   └── escalation_vs_churn.png
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
+
 
 
 
